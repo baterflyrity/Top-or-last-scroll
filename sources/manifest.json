@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Top or last scroll",
   "short_name": "TopLastScrl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "baterflyrity",
   "description": "Extension for Firefox that adds button at the end of an address bar. Click this button to scroll page to top and click again to scroll back.",
   "icons": {
