@@ -6,7 +6,7 @@
   "author": "baterflyrity",
   "description": "Extension for Firefox that adds button at the end of an address bar. Click this button to scroll page to top and click again to scroll back.",
   "icons": {
-    "64": "icons/icon-black-32.png",
+    "32": "icons/icon-black-32.png",
     "256": "icons/icon-black-256.png"
   },
   "homepage_url": "https://github.com/baterflyrity/Top-or-last-scroll",
